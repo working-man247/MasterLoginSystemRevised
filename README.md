@@ -2,7 +2,7 @@ Master Login System
 ===================  
 
 ### Note: This project is no longer maintained by original author.
-### Note: This project has been updated by (bbhowards1969@gmail.com).
+### Note: This project has been updated by (bhowards1969@gmail.com).
 ### March 2019
 
 An advanced login system build upon bootstrap with features like:
