@@ -41,6 +41,3 @@ After running the install.php script please check that the `inc/settings.php` co
   <img src="http://puu.sh/34yuS.png"/>
 </p>
 
-Donate 
------------------
-If you like my code you can support me by making a [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VVJJXVFMQ9ZN)
